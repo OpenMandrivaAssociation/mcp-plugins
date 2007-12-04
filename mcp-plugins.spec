@@ -1,6 +1,6 @@
 Name:         mcp-plugins
 Version:      0.3.0
-Release:      4mdk
+Release:       %mkrel 4
 
 Summary:      A set of audio plugins for LADSPA
 License:      GPL
