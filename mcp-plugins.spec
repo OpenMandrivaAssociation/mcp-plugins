@@ -8,7 +8,6 @@ Group:        Sound
 Source:       MCP-plugins-%version.tar.bz2
 URL:	      http://alsamodular.sourceforge.net
 Patch0:       mcp-plugins-makefile.patch.bz2
-BuildRoot:    %{_tmppath}/%{name}-buildroot
 Requires:     ladspa
 
 %description
