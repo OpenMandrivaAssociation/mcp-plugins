@@ -5,6 +5,7 @@ Release:       %mkrel 4
 Summary:      A set of audio plugins for LADSPA
 License:      GPL
 Group:        Sound
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source:       MCP-plugins-%version.tar.bz2
 URL:	      http://alsamodular.sourceforge.net
 Patch0:       mcp-plugins-makefile.patch.bz2
