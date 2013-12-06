@@ -1,3 +1,5 @@
+%define debug_package          %{nil}
+
 Name:         mcp-plugins
 Version:      0.4.0
 Release:      1
