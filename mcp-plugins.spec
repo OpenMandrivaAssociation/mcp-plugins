@@ -8,7 +8,7 @@ Summary:      A set of audio plugins for LADSPA
 License:      GPLv2
 Group:        Sound
 Source:       http://kokkinizita.linuxaudio.org/linuxaudio/downloads/MCP-plugins-%version.tar.bz2
-URL:          http://kokkinizita.linuxaudio.org/linuxaudio
+URL:          https://kokkinizita.linuxaudio.org/linuxaudio
 Requires:     ladspa
 
 %description
