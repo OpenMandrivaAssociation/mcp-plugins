@@ -11,6 +11,7 @@ Source:       http://kokkinizita.linuxaudio.org/linuxaudio/downloads/MCP-plugins
 URL:          https://kokkinizita.linuxaudio.org/linuxaudio
 Requires:     ladspa
 
+BuildRequires:	make
 %description
 A set of audio plugins for LADSPA by Fons Adriaensen.
 Currently contains a phaser, a chorus and a moog vcf.
